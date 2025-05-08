@@ -12,8 +12,30 @@ h1 {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 7px;;
+    padding: 14px;;
     border: solid black 2px;
+}
+
+.link-container {
+    width: 1100px;
+    border: solid gray 4px;
+    padding: 14px;
+    margin: 380px auto;
+}
+
+img {
+    height: 200px;
+    width: 100%;
+}
+
+.img-container1, .img-container2, .img-container3 {
+    display: inline-block;
+    background-color: white;
+    height: auto;
+    width: 350px;
+    padding: 7px;
+    border: solid black 2px;
+    /* margin-left: 10px; */
 }
 
 
