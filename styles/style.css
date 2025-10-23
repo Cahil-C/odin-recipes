@@ -14,3 +14,18 @@ body {
     text-align: center;
     height: 70px;
 }
+
+.hp-list-link {
+    list-style-type: square;
+}
+
+/* Create vertical space between links */
+.hp-link {
+    margin-bottom: 10px;
+}
+
+/* Remove underline and change link default color */
+a {
+    text-decoration: none;
+    color: black;
+}
