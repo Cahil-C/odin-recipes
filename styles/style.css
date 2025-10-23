@@ -29,3 +29,22 @@ a {
     text-decoration: none;
     color: black;
 }
+
+/* Baby Back Ribs */
+.recipe-body {
+    border: black solid 1px;
+    padding-bottom: 8px;
+}
+
+h1 {
+    margin-top: 0%;
+    text-align: center;
+}
+
+.img-container {
+    border: 7px solid black;
+    padding: 8px 8px;
+    width: 400px;
+    margin: 0 auto;
+}
+
