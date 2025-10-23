@@ -3,7 +3,6 @@ body {
     background-color: #FFFEF0;
     margin: 0px;
     padding: 0px;
-    padding-left: 7px;
     box-sizing: border-box;
 }
 
@@ -13,7 +12,7 @@ body {
     color: white;
     border: black solid 1px;
     text-align: center;
-    height: 70px;
+    height: 49px;
 }
 
 .hp-list-link {
