@@ -1,8 +1,16 @@
 /* Homepage Section */
 body {
     background-color: #FFFEF0;
-    /* Reset */
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+}
+
+/* Header */
+.homepage-header {
+    background-color: black;
+    color: white;
+    border: black solid 1px;
+    text-align: center;
+    height: 70px;
 }
